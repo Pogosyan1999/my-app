@@ -1,0 +1,27 @@
+{
+   "Menu":{
+     "Pianos": "Upright & grand pianos",
+     "AboutUs": "About Us",
+     "Contact" : "Contact",
+     "BechsteinWorld": "Bechstein world"
+
+   },
+
+   "SubMenu":{
+      "GrandPianos":"Grand Pianos",
+      "Uprights":"Uprights",
+      "GrandPiano":"The GRAND Piano",
+      "Hoffmann":"W. Hoffmann - The Sound of Europe",
+      "SpecialFinishes":"Special Finishes",
+      "BechsteinConnect":"C. Bechstein Connect",
+      "Vario":"VARIO Silent System",
+      "BechsteinConcert":"C. Bechstein Concert",
+      "BechsteinAcademy":"C. Bechstein Academy",
+      "WHoffmann":"W.Hoffmann",
+      "Zimmermann":"Zimmermann"
+   },
+
+   "search":{
+      "Search":"Search"
+   }
+}
